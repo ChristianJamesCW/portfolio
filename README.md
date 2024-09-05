@@ -16,7 +16,7 @@ satisfaction.
 • Actively organized clients documents and compiled into a secure location. Coordinated with clients in compiling their documents .
 • Engage with Case Managers on a daily basis and brainstorm on daily tasks.
 
-Executive Assistant
+#### Executive Assistant
 MrGolpher 
 March 2022 - November 2022, Philippines, Cebu
 
@@ -26,7 +26,7 @@ quotas and goals..
 • Provided exceptional customer service through taking inbound calls and aiming for 100% customer satisfaction.
 • Utilized tools such as Nextiva, PDF Nitro, Google docs, Hub-staff and Podium.
 
-Sales Development Representative
+#### Sales Development Representative
 CIENCE
 April 2021 - March 2022, Philippines, Cebu
 • Acquired 25 new clients monthly from cold calling, lead follow up, and relationship development.
@@ -36,7 +36,7 @@ April 2021 - March 2022, Philippines, Cebu
 performance metrics.
 • Utilized tools such as Salesloft, Slack, and Hubspot
 
-Technical Support Representative
+#### Technical Support Representative
 Sykes Asia Inc.
 August 2018 - February 2020, Philippines, Cebu
 •Resolved 95% of customer issues on the first call by utilizing advanced diagnostic tools and providing comprehensive solutions,
