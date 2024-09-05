@@ -4,8 +4,8 @@
 Asian Institute of Computer Studies
 IT • Dacay Building, 3rd Floor, N Escario St, Cebu City, 6000 Cebu • 2018
 
-### Work Experience
-Assistant Case Manager
+## Work Experience
+#### Assistant Case Manager
 Legalsoft 
 November 2022 - November 2023, Philippines, Cebu
 
