@@ -1,11 +1,11 @@
 # Copy Writer
 
-###Education
+### Education
 
-###Work Experience
+### Work Experience
 Copy Writing Projects & Coca Cola
 -Impact project 1!
 -Impact Project 2
 
-###Projects
+### Projects
 -project 1
